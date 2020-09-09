@@ -91,6 +91,7 @@ Q. With an infinite input source, how much `flow` can we push through the networ
 ![](assets/matching.png)
 - A matching is maximal if no more edges may be added.
 - A matching is maximum with largest matching
+
 # Reference
 https://www.youtube.com/watch?v=GiN3jRdgxU4
 https://www.youtube.com/watch?v=LdOnanfc5TM
